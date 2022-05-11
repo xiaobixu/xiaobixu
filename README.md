@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xiaobixu
+- 👋 Hi, I’m @xiaobixu, aka Bree
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning Data Analysis with Python
 
