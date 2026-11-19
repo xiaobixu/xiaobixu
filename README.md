@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xiaobixu, aka Bree
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning Data Analysis with Python
+- 🌱 I’m currently a test automation engineering, and learning cyber security
 
 <!---
 xiaobixu/xiaobixu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
